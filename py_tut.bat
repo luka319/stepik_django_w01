@@ -1,0 +1,1 @@
+"W:\[__stepik]\[academy]\django01_платный\week01\_задание_week01_dj\stepik_tours\venv\Scripts\python.exe" %*
